@@ -1,0 +1,17 @@
+C:\Chanda\GitHub\TsvFileOperation\TsvFileOperation\obj\Debug\TsvFileOperation.csproj.CoreCompileInputs.cache
+C:\Chanda\GitHub\TsvFileOperation\TsvFileOperation\bin\Debug\TsvFileOperation.exe.config
+C:\Chanda\GitHub\TsvFileOperation\TsvFileOperation\bin\Debug\TsvFileOperation.exe
+C:\Chanda\GitHub\TsvFileOperation\TsvFileOperation\bin\Debug\TsvFileOperation.pdb
+C:\Chanda\GitHub\TsvFileOperation\TsvFileOperation\bin\Debug\CsvHelper.dll
+C:\Chanda\GitHub\TsvFileOperation\TsvFileOperation\bin\Debug\FileHelpers.dll
+C:\Chanda\GitHub\TsvFileOperation\TsvFileOperation\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Chanda\GitHub\TsvFileOperation\TsvFileOperation\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Chanda\GitHub\TsvFileOperation\TsvFileOperation\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Chanda\GitHub\TsvFileOperation\TsvFileOperation\bin\Debug\CsvHelper.xml
+C:\Chanda\GitHub\TsvFileOperation\TsvFileOperation\bin\Debug\FileHelpers.xml
+C:\Chanda\GitHub\TsvFileOperation\TsvFileOperation\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Chanda\GitHub\TsvFileOperation\TsvFileOperation\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Chanda\GitHub\TsvFileOperation\TsvFileOperation\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Chanda\GitHub\TsvFileOperation\TsvFileOperation\obj\Debug\TsvFileOperation.csproj.CopyComplete
+C:\Chanda\GitHub\TsvFileOperation\TsvFileOperation\obj\Debug\TsvFileOperation.exe
+C:\Chanda\GitHub\TsvFileOperation\TsvFileOperation\obj\Debug\TsvFileOperation.pdb
